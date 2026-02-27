@@ -119,7 +119,7 @@ Logo, a corrente do circuito será **0,1 Ampere**.
 -   Sem tensão, não existe corrente.
 -   Quanto maior a resistência, menor será a corrente (mantendo a tensão
     constante).
--   A Lei de Ohm é válida para materiais ôhmicos.
+-   A Lei de Ohm é válida para materiais ôhmicos (que obedecem a Lei de Ohm, como por exemplo: cobre, resistores comuns, fios elétricos).
 -   Corrente contínua mantém o mesmo sentido; corrente alternada muda de
     sentido periodicamente.
 
@@ -131,8 +131,6 @@ Logo, a corrente do circuito será **0,1 Ampere**.
 -   O triângulo facilita muito na hora de lembrar as fórmulas.
 -   Pequenas mudanças na resistência podem alterar significativamente a
     corrente.
--   Entender bem essa aula é essencial antes de avançar para circuitos
-    mais complexos.
 
 ------------------------------------------------------------------------
 
