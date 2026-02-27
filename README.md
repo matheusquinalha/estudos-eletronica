@@ -10,7 +10,8 @@ Aqui organizo anotações, resumos e exercícios das aulas que estou estudando.
 
 ### 🔹 Aulas
 
-- [Aula 01 - Corrente Elétrica](aulas/01-corrente-eletrica.md)
+- [Aula 01 - Corrente Elétrica](aulas/Aula-01-corrente-eletrica.md)
+- [Aula 02 - Lei de Ohm](aulas/Aula-02-Lei-de-Ohm.md)
 
 (As próximas aulas serão adicionadas conforme avanço nos estudos)
 
