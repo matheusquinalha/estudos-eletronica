@@ -14,7 +14,8 @@ Aqui organizo anotações, resumos e exercícios das aulas que estou estudando.
 - [Aula 02 - Lei de Ohm](aulas/Aula-02-Lei-de-Ohm.md)
 - [Aula 03 - Leis de Kirchhoff](aulas/Aula-03-Leis-de-Kirchhoff.md)
 - [Aula 04 - Componentes, código e rótulos](aulas/Aula-04-componentes-codigos-e-rotulos.md)
-- [Aula 05 - Semicondutores e Diodos](aulas/Aula-5-semicondutores-e-diodos.md)
+- [Aula 05 - Semicondutores e Diodos](aulas/Aula-05-semicondutores-e-diodos.md)
+- [Aula 06 - Transistores Unipolares](aulas/Aula-06-transistores-unipolares.md)
 
 (As próximas aulas serão adicionadas conforme avanço nos estudos)
 
