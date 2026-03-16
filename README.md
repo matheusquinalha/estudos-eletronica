@@ -17,6 +17,7 @@ Aqui organizo anotações, resumos e exercícios das aulas que estou estudando.
 - [Aula 05 - Semicondutores e Diodos](aulas/Aula-05-semicondutores-e-diodos.md)
 - [Aula 06 - Transistores Unipolares](aulas/Aula-06-transistores-unipolares.md)
 - [Aula 07 - Transistores (Outros Tipos)](aulas/Aula-07-transistores-outros-tipos.md)
+- [Aula 08 - Capacitores](aulas/Aula-08-capacitores.md)
 
 (As próximas aulas serão adicionadas conforme avanço nos estudos)
 
