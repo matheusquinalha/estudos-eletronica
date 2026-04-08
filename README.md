@@ -21,6 +21,13 @@ Aqui organizo anotações, resumos e exercícios das aulas que estou estudando.
 
 (As próximas aulas serão adicionadas conforme avanço nos estudos)
 
+### 🔹 Práticas
+
+- [Atividade 01 - Genius](pratica/projeto-genius/detalhes.md)
+- [Atividade 02 - De 0 a 99 com Display de 7 Segmentos](pratica/0-a-99/detalhes.md)
+
+(As próximas atividades serão adicionadas conforme avanço nos práticas)
+
 ---
 
 ## 🎯 Objetivo
