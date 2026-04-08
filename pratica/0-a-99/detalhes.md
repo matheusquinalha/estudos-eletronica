@@ -68,8 +68,9 @@ Cada linha representa um número (0–9) e define quais segmentos devem ser liga
 
 Exemplo:
 
-{1,1,1,1,1,1,0} // número 0
-{0,1,1,0,0,0,0} // número 1
+{1,1,1,1,1,1,0} // número 0;
+
+{0,1,1,0,0,0,0} // número 1;
 
 e por ai vai.
 
